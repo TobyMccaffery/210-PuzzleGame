@@ -1,0 +1,27 @@
+Level 3 Interactables, Items, Hazard Co-ordinates:
+
+Character Spawns:
+(16, 9): 1
+(35, 1): 2
+
+Buttons: 
+(57, 25)
+(63, 12)
+(34, 18)
+(44, 27)
+(45, 35)
+(37, 26)
+(26, 27)
+(4, 8)
+(4, 6)
+(0, 3)
+NOTE: Timed Buttons may necessitate speed potions in order to reach the connected door.
+
+Levers:
+(49, 35)
+(16, 35)
+
+Corners of 'Gas Clouds':
+(10, 8); (13, 8); (10, 28); (13, 28)
+(34, 17); (34, 19); (49, 17); (49, 19)
+NOTE: Gas Masks or Invincibility Potions needed on either side of the level.

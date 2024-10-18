@@ -1,0 +1,174 @@
+
+TempTextures.png
+size: 124, 189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ButtonNotPressed
+  rotate: true
+  xy: 35, 159
+  size: 11, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ButtonPressed
+  rotate: false
+  xy: 91, 103
+  size: 8, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+character1
+  rotate: false
+  xy: 103, 67
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+character2
+  rotate: false
+  xy: 103, 89
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+DoorClosed
+  rotate: false
+  xy: 103, 1
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+DoorOpen
+  rotate: false
+  xy: 103, 23
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+dungeon1
+  rotate: false
+  xy: 1, 103
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 20
+dungeon2
+  rotate: false
+  xy: 1, 137
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 21
+dungeon3
+  rotate: false
+  xy: 35, 103
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 22
+enemy
+  rotate: false
+  xy: 35, 137
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 69, 103
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor1
+  rotate: false
+  xy: 69, 125
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor2
+  rotate: false
+  xy: 101, 111
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor3
+  rotate: false
+  xy: 57, 147
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+floor4
+  rotate: false
+  xy: 79, 147
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+GreenPotion
+  rotate: false
+  xy: 1, 171
+  size: 18, 16
+  orig: 18, 18
+  offset: 0, 1
+  index: -1
+LeverOff
+  rotate: false
+  xy: 103, 45
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+leverOn
+  rotate: false
+  xy: 101, 133
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+PressurePlateDown
+  rotate: false
+  xy: 81, 169
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+PressurePlateUp
+  rotate: false
+  xy: 101, 155
+  size: 18, 18
+  orig: 20, 20
+  offset: 1, 1
+  index: -1
+RedPotion
+  rotate: false
+  xy: 21, 172
+  size: 18, 16
+  orig: 18, 18
+  offset: 0, 1
+  index: -1
+SpeedPotion
+  rotate: false
+  xy: 61, 169
+  size: 18, 19
+  orig: 20, 20
+  offset: 0, 1
+  index: -1
+wall
+  rotate: false
+  xy: 1, 1
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+YellowPotion
+  rotate: false
+  xy: 41, 172
+  size: 18, 16
+  orig: 18, 18
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,313 @@
+new-art.png
+size: 880, 20
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlueFloor-Pressure-Plate
+  rotate: false
+  xy: 0, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BlueFloor
+  rotate: false
+  xy: 20, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BoneFloor
+  rotate: false
+  xy: 40, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+BrownGenericFloor
+  rotate: false
+  xy: 60, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ButtonNotPressed
+  rotate: false
+  xy: 80, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ButtonPressed
+  rotate: false
+  xy: 100, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+character1
+  rotate: false
+  xy: 120, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+character2
+  rotate: false
+  xy: 140, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+DiagonalFloor
+  rotate: false
+  xy: 160, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+FaceFloor
+  rotate: false
+  xy: 180, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Floor-Pressure-Plate
+  rotate: false
+  xy: 200, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Floor
+  rotate: false
+  xy: 220, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+GasMask
+  rotate: false
+  xy: 240, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+GenericBrownFloor2
+  rotate: false
+  xy: 260, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-10
+  rotate: false
+  xy: 280, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-20
+  rotate: false
+  xy: 300, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-30
+  rotate: false
+  xy: 320, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-40
+  rotate: false
+  xy: 340, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-50
+  rotate: false
+  xy: 360, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-60
+  rotate: false
+  xy: 380, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-70
+  rotate: false
+  xy: 400, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-80
+  rotate: false
+  xy: 420, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-90
+  rotate: false
+  xy: 440, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+health-bar/healthbar-100
+  rotate: false
+  xy: 460, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+HorizontalFloor
+  rotate: false
+  xy: 480, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monster-right-walk
+  rotate: false
+  xy: 500, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monster_left_attack
+  rotate: false
+  xy: 520, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monster_left_walk
+  rotate: false
+  xy: 540, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+monster_right_attack
+  rotate: false
+  xy: 560, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+Mud
+  rotate: false
+  xy: 580, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+new-wall-top
+  rotate: false
+  xy: 600, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+NewWall
+  rotate: false
+  xy: 620, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+potions/blue-potion
+  rotate: false
+  xy: 640, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+potions/cyan-potion
+  rotate: false
+  xy: 660, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+potions/pink-potion
+  rotate: false
+  xy: 680, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+potions/red-potion
+  rotate: false
+  xy: 700, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+potions/yellow-potion
+  rotate: false
+  xy: 720, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+PressurePlateDown
+  rotate: false
+  xy: 740, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+PressurePlateUp
+  rotate: false
+  xy: 760, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpiralFloor-Pressure_plate
+  rotate: false
+  xy: 780, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpiralFloor
+  rotate: false
+  xy: 800, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+SpiralFloorBrown
+  rotate: false
+  xy: 820, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+VerticalFloor
+  rotate: false
+  xy: 840, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+VerticalFloorBrown
+  rotate: false
+  xy: 860, 0
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
